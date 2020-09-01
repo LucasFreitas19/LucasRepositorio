@@ -1,0 +1,44 @@
+body{
+width: 90%;
+max-width: 200%;
+margin: auto;
+background: url(tutu.jpg);center;
+
+font-family: sans-serif;
+color: black;
+font-size: 32px
+}
+
+.corpo{
+  background: #00000042;
+  padding: 15px 40px;
+  margin: 40px;
+  border-radius: 20px;
+
+
+  margin: 30px 0;
+  line-height: 2;
+
+
+}
+
+.Ito,.caste,.ito2,.fonte{
+text-align: right;
+}
+
+hr{
+border-top: 5px solid black;
+}
+
+.titulo1{
+text-align: center;
+
+}
+
+.bibi,.foto{
+text-align: right;
+}
+
+.imgf,.imga{
+text-align: center;
+}
